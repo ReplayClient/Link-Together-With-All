@@ -4,6 +4,7 @@ Link Together With All Project is a community effort project for Re-Implementing
 Contact:
 
 Discord Channel
+
 https://discord.gg/0ZnDYMC9dfZX6bcu
 
 Email
